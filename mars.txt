@@ -1,2 +1,3 @@
 Mars is a red planet near Earth!
 There is no water there, though :/
+Neither it has a magnetic field!
